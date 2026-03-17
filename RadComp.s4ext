@@ -1,0 +1,12 @@
+# First extension, description
+#
+scm: git
+scmurl: https://github.com/LuisParedesOcampo/SlicerRadComp.git
+scmrevision: main
+category: Radiotherapy
+homepage: https://radcomp.streamlit.app
+description: A clinical tool for Reirradiation analysis, EQD2 dose calculation, and integrated DVH metrics.
+iconurl: https://raw.githubusercontent.com/LuisParedesOcampo/SlicerRadComp/refs/heads/main/Resources/Icons/SlicerRadComp.png
+contributors: Luis Paredes
+status: 
+depends: SlicerRT
