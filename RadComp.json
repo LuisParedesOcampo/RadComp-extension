@@ -3,6 +3,6 @@
   "build_subdirectory": ".",
   "category": "Radiotherapy",
   "scm_revision": "main",
-  "scm_url": "https://github.com/LuisParedesOcampo/SlicerRadComp.git",
+  "scm_url": "https://github.com/LuisParedesOcampo/SlicerRadReirradiation",
   "tier": 1
 }
